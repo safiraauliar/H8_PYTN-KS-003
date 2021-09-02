@@ -14,3 +14,6 @@
 1. Function
 2. Basic Module
 3. Package
+
+## Session 4
+Basic Numpy
