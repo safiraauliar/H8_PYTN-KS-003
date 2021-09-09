@@ -17,3 +17,5 @@
 
 ## Session 4
 Basic Numpy
+## Session 5
+Pandas Introduction
