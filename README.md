@@ -19,3 +19,5 @@
 Basic Numpy
 ## Session 5
 Pandas Introduction
+## Session 6
+Data Cleaning with Pandas
