@@ -21,3 +21,5 @@ Basic Numpy
 Pandas Introduction
 ## Session 6
 Data Cleaning with Pandas
+## Session 7
+Basic Visualization with matplotlib and pandas
